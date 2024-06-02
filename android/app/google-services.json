@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818766939041",
+    "project_id": "martconnect-1c2b2",
+    "storage_bucket": "martconnect-1c2b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818766939041:android:c3b60545ffa71f674dc1e0",
+        "android_client_info": {
+          "package_name": "com.example.mart_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR-UtfveJFPneFOqXgKMu7W8oH1Adk87Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
